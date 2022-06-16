@@ -22,6 +22,7 @@ I'm a fullstack developer and tech enthusiast from Krakow, Poland
 - 💻 Mainly programming in php, js
 - 📫 How to reach me: przemyslaw.padol@proton.me
 - 🏖️ In my free time I take photos and enjoy music
+- 🐧 btw I use Arch
 
 <!--
 **hellisdigital/hellisdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
