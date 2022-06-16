@@ -15,7 +15,7 @@ I'm a full-stack developer and tech enthusiast from Krakow, Poland
 
 ### About me
 
-- 🧑🏻‍💻 I'm Currently working at Eura7 as fullstack developer
+- 🧑🏻‍💻 I'm Currently working at Eura7 as full-stack developer
 - 📄 To see my work expieriences, look on my linkedin profile
 - 🌱 I'm currently learning symfony framework
 - 🔍 Interested in webdev and 3d printing
