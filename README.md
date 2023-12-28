@@ -20,7 +20,7 @@ I'm a full-stack developer and tech enthusiast from Krakow, Poland
 - 🌱 I'm currently learning symfony framework
 - 🔍 Interested in webdev and 3d printing
 - 💻 Mainly programming in php, js
-- 📫 How to reach me: przemyslaw.padol@proton.me
+- 📫 How to reach me: przemyslaw.padol@outlook.com
 - 🏖️ In my free time I take photos and enjoy music
 - 🐧 Btw I use Arch
 
