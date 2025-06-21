@@ -8,9 +8,6 @@ I'm a full-stack developer and tech enthusiast from Krakow, Poland
   <a href="https://www.linkedin.com/in/przemyslaw-padol">
     <img src="https://img.shields.io/badge/LinkedIn-2986CC?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/hell_is_digital/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFF" alt="Instagram Badge"/>
-  </a>
 </div>
 
 ### About me
